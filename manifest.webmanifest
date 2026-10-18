@@ -1,0 +1,10 @@
+{
+  "name": "Parkinson's Disease PH Gathering 2027 — Offline",
+  "short_name": "PD PH 2027",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f1",
+  "theme_color": "#126039",
+  "description": "Offline-first attendee check-in and benefit tracking preview"
+}
